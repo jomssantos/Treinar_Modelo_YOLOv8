@@ -41,7 +41,7 @@ Imagens, anotações, `runs/` e arquivos `.pt`/`.onnx` ficam fora do Git de prop
 Precisa de Python 3.10+.
 
 ```bash
-git clone https://github.com/SEU-USUARIO/Treinar_Modelo_YOLOv8.git
+git clone https://github.com/jomssantos/Treinar_Modelo_YOLOv8.git
 cd Treinar_Modelo_YOLOv8
 
 python -m venv .venv
