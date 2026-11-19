@@ -1,0 +1,15 @@
+dataset/images/*/*
+dataset/labels/*/*
+!dataset/images/*/.gitkeep
+!dataset/labels/*/.gitkeep
+runs/
+*.pt
+*.onnx
+foto.jpg
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.vscode/
+.idea/
+.DS_Store

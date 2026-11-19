@@ -1,0 +1,6 @@
+# o anotar.py recria este arquivo ao cadastrar classes
+# a ordem dos nomes define o ID de cada classe
+train: dataset/images/train
+val: dataset/images/val
+nc: 1
+names: [objeto]
